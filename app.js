@@ -17,7 +17,7 @@ app.use(express.static('public'));
 
 // home route
 app.get('/', function(req,res){
-	res.render("index",{title});
+	res.render("index");
 });
 
 const server = http.createServer(app);
