@@ -7,3 +7,4 @@ Uses nodemon to restart server on file changes and reload to refresh browser.
 
 "npm start" to run
 
+it contains a basic pug page at views/index.pug, and basic stylus in stylus/index.styl
