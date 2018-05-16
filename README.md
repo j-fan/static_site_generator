@@ -9,4 +9,4 @@ Uses nodemon to restart server on file changes and reload to refresh browser.
 
 "npm run-script make" to compile pug/stylus into html/css in the docs folder. A github page can be made from this with no other modifications.
 
-it contains a basic pug page at views/index.pug, and basic stylus in stylus/index.styl
+it contains a basic pug page at views/index.pug, and basic stylus in stylus/index.styl, basic script in docs/js/page.js
