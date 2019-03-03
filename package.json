@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
-    "nodemon": "^1.17.1",
-    "pug": "^2.0.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "pug": "^2.0.3",
     "pug-cli": "^1.0.0-alpha6",
-    "reload": "^2.2.2",
+    "reload": "^2.4.0",
     "stylus": "^0.54.5"
   }
 }
