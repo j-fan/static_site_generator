@@ -12,7 +12,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "nodemon": "^1.18.10",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "pug-cli": "^1.0.0-alpha6",
     "reload": "^2.4.0",
     "stylus": "^0.54.5"
